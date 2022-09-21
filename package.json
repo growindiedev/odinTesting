@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jarryingnut/odinTesting-/issues"
   },
-  "homepage": "https://github.com/jarryingnut/odinTesting-#readme"
+  "homepage": "https://github.com/jarryingnut/odinTesting-#readme",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
